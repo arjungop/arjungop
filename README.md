@@ -100,15 +100,6 @@
 
 ---
 
-## 📊 GitHub Insights
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjungopal&layout=compact&theme=tokyonight&hide_border=true" height="150em"/>
-</p>
-
----
-
 
 ### ⚡ Quote of the Day
 > “AI is not about replacing humans — it’s about amplifying human intelligence.”
@@ -118,10 +109,3 @@
 </p>
 
 ---
-
-<h3 align="center">⭐ Thanks for visiting — Let’s build something intelligent together 🚀</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBukh7r0D9Iu9rC/giphy.gif" width="200"/>
-</p>
-
