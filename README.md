@@ -38,6 +38,7 @@ I'm a **Software Engineer & AI Architect** focused on bridging the gap between r
 <td width="40%" align="center">
 
 ### 🏆 GitHub Trophies
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=arjungop&theme=dracula&no-bg=true&no-frame=true&margin-w=15&column=3" alt="Trophies"/>
 
 </td>
