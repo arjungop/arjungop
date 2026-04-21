@@ -1,23 +1,20 @@
 <div align="center">
 
-<!-- Upgraded Fluid Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Arjun%20Gopal&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Cloud%20Architecture&descAlignY=55&descAlign=50"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=250&section=header&text=Arjun%20Gopal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Cloud%20Architecture&descAlignY=55&descAlign=50"/>
 
 <br>
 
-<!-- Sleek Animated Subtitle -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Building+Intelligent+Enterprise+Systems;Scalable+Machine+Learning+%26+AI;Next-Gen+Cloud+Architecture;Translating+Data+into+Impact)](https://git.io/typing-svg)
-
-<!-- Pill-Shaped Social Buttons -->
+<!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/arjungopal-anilkumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Arjg22" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:arjungopalanilkumar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -25,75 +22,98 @@
 
 ---
 
-### 👨‍💻 About Me
+<table align="center">
+<tr>
+<td width="60%">
 
-<table width="100%" border="0">
+### 💡 About Me
+I'm a **Software Engineer & AI Architect** focused on bridging the gap between raw machine learning models and scalable, enterprise-grade systems. I specialize in building autonomous AI agents, robust API backends, and cloud-native infrastructure.
+
+* 🔭 **Currently Building:** Multi-Agent AI systems for enterprise automation & Security Intelligence.
+* 🌱 **Learning:** Advanced LLM Orchestration, Custom Fine-Tuning strategies, and Kubernetes at scale.
+* 💬 **Ask me about:** Python, RAG pipelines, Cloud Architecture (AWS/Azure), and Data Science.
+* ⚡ **Fun Fact:** I believe an AI's accuracy is only as good as the data pipelines supporting it.
+
+</td>
+<td width="40%" align="center">
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=arjungop&theme=dracula&no-bg=true&no-frame=true&margin-w=15&column=3" alt="Trophies"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔥 Featured Engineering & AI Projects
+
+<table align="center">
   <tr>
-    <td width="60%" valign="top">
-      &nbsp;&nbsp;🔭 <b>Currently Building:</b> Multi-Agent AI systems for enterprise automation & Security Intelligence.<br><br>
-      &nbsp;&nbsp;🌱 <b>Learning:</b> Advanced LLM Orchestration, Custom Fine-Tuning strategies, and Kubernetes at scale.<br><br>
-      &nbsp;&nbsp;💬 <b>Ask me about:</b> Python, RAG pipelines, Cloud Architecture (AWS/Azure), and Data Science.<br><br>
-      &nbsp;&nbsp;⚡ <b>Fun Fact:</b> I believe an AI's accuracy is only as good as the data pipelines supporting it.
+    <td align="center" width="33%">
+      <h3>🛡️ AegisSOC</h3>
+      <p><b>Next-Gen Threat Intelligence</b><br>A fully automated Security Operations Center pipeline powered by multi-agent AI for intelligent alert triage.</p>
+      <a href="https://github.com/arjungop/AegisSOC"><img src="https://img.shields.io/badge/-View_Source-0f172a?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
-    <td width="40%" align="center" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=arjungop&theme=dracula&no-bg=true&no-frame=true&margin-w=15&column=3" alt="Trophies"/>
+    <td align="center" width="33%">
+      <h3>🏥 CareSyncOS</h3>
+      <p><b>Hospital Application Suite</b><br>An AI-powered, full-fledged electronic health record and patient management operating system.</p>
+      <a href="https://github.com/arjungop/CareSyncOS"><img src="https://img.shields.io/badge/-View_Source-3b82f6?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎯 OmniMark</h3>
+      <p><b>AI Marketing Pipeline</b><br>An intelligent ABM (Account-Based Marketing) pipeline that dynamically generates personalized campaigns.</p>
+      <a href="https://github.com/arjungop/OmniMark"><img src="https://img.shields.io/badge/-View_Source-0f172a?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🔥 Featured Projects
-*(Dynamically updating repositories)*
-
-<div align="center">
-  <a href="https://github.com/arjungop/AegisSOC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjungop&repo=AegisSOC&theme=tokyonight&show_owner=true&hide_border=true" alt="AegisSOC" width="48%" />
-  </a>
-  <a href="https://github.com/arjungop/CareSyncOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjungop&repo=CareSyncOS&theme=tokyonight&show_owner=true&hide_border=true" alt="CareSyncOS" width="48%" />
-  </a>
-  <br/>
-  <a href="https://github.com/arjungop/OmniMark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjungop&repo=OmniMark&theme=tokyonight&show_owner=true&hide_border=true" alt="OmniMark" width="48%" />
-  </a>
-  <a href="https://github.com/arjungop/AI_Cover_Letter_Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjungop&repo=AI_Cover_Letter_Generator&theme=tokyonight&show_owner=true&hide_border=true" alt="AI Agent" width="48%" />
-  </a>
-</div>
-
----
-
 ### 💻 Technology Stack
 
-<div align="center">
-  <p><b>Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,html,css" title="Languages" />
-  <br><br>
-  <p><b>AI & Data Science</b></p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv" title="ML/AI" />
-  <br><br>
-  <p><b>Cloud & DevOps</b></p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,nginx,fastapi" title="Cloud & Ops" />
-  <br><br>
-  <p><b>Databases & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,figma,vscode" title="DB & Tools" />
-</div>
+<details open>
+<summary><b>Languages & Core Tech</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,cpp,bash&perline=8" />
+</p>
+</details>
+
+<details open>
+<summary><b>AI, Machine Learning & Data Science</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&perline=8" />
+</p>
+</details>
+
+<details open>
+<summary><b>Cloud, Databases & DevOps</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,postgres,mongodb,nginx&perline=8" />
+</p>
+</details>
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 Commit Activity & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjungop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="190" alt="Arjun's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjungop&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="190" alt="Top Languages" />
+  <a href="https://github.com/arjungop">
+    <img src="https://github-readme-stats.vercel.app/api?username=arjungop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="190" alt="Arjun's Stats" />
+  </a>
+  <a href="https://github.com/arjungop">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjungop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="190" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arjungop&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=arjungop&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
-<!-- Fluid Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
+<!-- Footer Animated Curve -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer"/>
