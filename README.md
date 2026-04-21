@@ -37,9 +37,9 @@ I'm a **Software Engineer & AI Architect** focused on bridging the gap between r
 </td>
 <td width="40%" align="center">
 
-### 🏆 GitHub Trophies
+### 📈 GitHub Streak
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=arjungop&theme=dracula&no-bg=true&no-frame=true&margin-w=15&column=3" alt="Trophies"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjungop&theme=tokyonight&hide_border=true&background=0F172A" alt="GitHub Streak"/>
 
 </td>
 </tr>
@@ -85,7 +85,7 @@ I'm a **Software Engineer & AI Architect** focused on bridging the gap between r
 <summary><b>AI, Machine Learning & Data Science</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&perline=8" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&perline=8" />
 </p>
 </details>
 
