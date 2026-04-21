@@ -1,13 +1,8 @@
-<!-- 🌟 Premium Dynamic GitHub Profile for Arjun Gopal -->
+<div align="center">
+  
+# 🚀 HI, I'M ARJUN GOPAL 👋
 
-<!-- Header Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Arjun+Gopal+👋;AI+%26+Machine+Learning+Developer;Cloud+Native+Engineer;Building+Intelligent+Systems+🌍;Always+Learning+and+Innovating!+⚡">
-</p>
-
----
-
-<h3 align="center">🚀 AI | Machine Learning | Cloud | Data | Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E99FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Building+Intelligent+Enterprise+Systems;Cloud+Native+Engineer;Transforming+Ideas+Into+Scalable+Reality;Always+Learning+and+Innovating!+⚡)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/arjungopal-anilkumar/" target="_blank">
@@ -16,96 +11,85 @@
   <a href="https://x.com/Arjg22" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
+  <a href="mailto:arjungopalanilkumar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me
-💡 Passionate about **AI, Data, and Cloud Computing**  
-🎯 Skilled in developing **scalable ML systems & intelligent pipelines**  
-🌱 Currently exploring **MLOps & AI for Security Intelligence**  
-🤝 Open to collaborations in **AI, Automation, and Cloud Applications**
-
----
-
-## ⚙️ Tech Stack
-
-<!-- LANGUAGES -->
-### 💬 Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css" height="45" />
 </div>
 
----
+<br>
 
-<!-- ML & AI -->
-### 🤖 Machine Learning & AI
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras" height="45" /><br><br>
-  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/LightGBM-00B300?style=for-the-badge&logo=python&logoColor=white" alt="LightGBM"/>
-  <img src="https://img.shields.io/badge/CatBoost-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="CatBoost"/>
-</div>
+## 🧠 ABOUT ME
 
----
+I am a highly driven **AI, Data, and Cloud Computing** Engineer with a deep passion for building robust, scalable Enterprise & SaaS products. Whether it's architecting advanced Threat Intelligence systems, developing comprehensive AI-powered Hospital Application suites, or designing autonomous Multi-Agent orchestration frameworks, I enjoy taking complex, real-world problems and solving them through elegant architecture and machine learning.
 
-<!-- CV & NLP -->
-### 🧩 Computer Vision & NLP
-<div align="center">
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white" alt="spaCy"/>
-  <img src="https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
-  <img src="https://img.shields.io/badge/MediaPipe-FF9800?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
-</div>
+- 💡 **Focus Areas:** Scalable ML systems, Intelligent Pipelines, Multi-Agent AI (RAG & LLM), and Cloud Architecture.
+- 🎯 **Recent Highlights:** Architecting **CareSyncOS**, **AegisSOC**, and **OmniMark**. 
+- 🌱 **Currently exploring:** Advanced MLOps, AI for Cybersecurity Intelligence, and LLM Orchestration workflows.
+- 🤝 **Collaboration:** Always open to exciting collaborations in AI automation, cutting-edge cloud applications, and startup MVPs.
 
----
+<br>
 
-### 📊 Data & Visualization
-<p align="center" style="margin:0;padding:0;">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" height="42"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Seaborn-5A9BD4?style=flat-square&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="30"/>
+## 🛠️ TECHNICAL ARSENAL
+
+### 💻 Languages & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,react" height="48" />
+  </a>
 </p>
 
-
----
-
-<!-- CLOUD & MLOPS -->
-### ☁️ Cloud & MLOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" height="45" /><br><br>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</div>
-
----
-
-### 🗄️ Databases & Querying
-<p align="center" style="margin:0;padding:0;">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" height="42"/>
+### 🤖 Machine Learning, AI & Data Science
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" height="48" />
+  </a>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white" height="48" />
 </p>
 
+### ☁️ Cloud, MLOps & Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,fastapi" height="48" />
+  </a>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="48" />
+</p>
 
----
-<!-- OTHER TOOLS -->
-### 🧰 Other Tools
+### 🗄️ Databases & Tooling
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,git,figma,notion" height="48" />
+  </a>
+</p>
+
+<br>
+
+## 📈 GITHUB METRICS
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,notion" height="45" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjungop&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Arjun's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjungop&theme=radical&hide_border=true&background=00000000" alt="Arjun's GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjungop&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</div>
+
+<br>
 
 ---
-
-
-### ⚡ Quote of the Day
-> “AI is not about replacing humans — it’s about amplifying human intelligence.”
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arjungopal&color=blue&style=flat-square" alt="Profile Views"/>
+  <i>"AI is not about replacing humans — it’s about amplifying human intelligence."</i>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arjungop&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
